@@ -13,7 +13,7 @@
 
 #### Perform a precipitation analysis and then a station analysis by completing the steps into two subsections:
 - Precipitation Analysis
--- Find the most recent date in the dataset, get the previous 12 months of precipitation data by querying the previous 12 months of data
+- - Find the most recent date in the dataset, get the previous 12 months of precipitation data by querying the previous 12 months of data
 -- Select only the "date" and "prcp" values
 -- Load the query results into a Pandas DataFrame -explicitly set the column names
 -- Sort the DataFrame values by "date".
